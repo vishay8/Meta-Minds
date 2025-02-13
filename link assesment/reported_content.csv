@@ -1,0 +1,201 @@
+ID,Type,Content,Report_Count,First_Report_Date,Last_Report_Date,Organizations,Why_Reported
+1,Link,http://fake-site-1.com,5,08-09-2024,04-01-2025,fbi.gov,Impersonation
+2,Link,http://fake-site-2.com,1,21-06-2023,17-01-2024,antiphishing.org,Impersonation
+3,Link,http://fake-site-3.com,4,04-10-2023,17-12-2023,scamwatch.gov.au,Suspicious content
+4,Message,Suspicious message 4,1,05-05-2023,08-05-2024,fbi.gov,Fake job offer
+5,Email,example-5@scam.com,7,20-11-2024,18-01-2025,antiphishing.org,Suspicious content
+6,Email,example-6@scam.com,5,23-04-2024,26-11-2024,fbi.gov,Suspicious content
+7,Message,Suspicious message 7,9,13-12-2022,28-02-2023,cybercrime.gov,Phishing attempt
+8,Link,http://fake-site-8.com,3,08-01-2025,23-01-2025,antiphishing.org,Fake job offer
+9,Email,example-9@scam.com,1,27-07-2023,20-12-2024,fbi.gov,Financial fraud
+10,Message,Suspicious message 10,3,29-07-2023,02-03-2024,cybercrime.gov,Spam
+11,Email,example-11@scam.com,9,03-09-2024,02-01-2025,scamwatch.gov.au,Scam
+12,Email,example-12@scam.com,2,11-12-2023,27-03-2024,cybercrime.gov,Financial fraud
+13,Message,Suspicious message 13,6,01-01-2024,25-01-2025,scamwatch.gov.au,Malware link
+14,Link,http://fake-site-14.com,7,15-02-2022,21-09-2022,fbi.gov,Suspicious content
+15,Message,Suspicious message 15,3,27-09-2022,05-12-2024,antiphishing.org,Scam
+16,Message,Suspicious message 16,7,15-05-2024,04-11-2024,fbi.gov,Spam
+17,Message,Suspicious message 17,7,29-09-2024,19-10-2024,fbi.gov,Financial fraud
+18,Email,example-18@scam.com,10,07-10-2024,31-01-2025,scamwatch.gov.au,Spam
+19,Link,http://fake-site-19.com,4,01-12-2023,16-10-2024,cybercrime.gov,Phishing attempt
+20,Message,Suspicious message 20,7,08-05-2023,25-06-2023,fbi.gov,Spam
+21,Link,http://fake-site-21.com,5,24-08-2024,28-11-2024,antiphishing.org,Spam
+22,Email,example-22@scam.com,1,02-02-2022,25-11-2024,scamwatch.gov.au,Malware link
+23,Email,example-23@scam.com,9,19-03-2024,07-06-2024,fbi.gov,Phishing attempt
+24,Email,example-24@scam.com,5,22-10-2024,08-01-2025,scamwatch.gov.au,Financial fraud
+25,Email,example-25@scam.com,8,08-01-2024,21-08-2024,fbi.gov,Malware link
+26,Link,http://fake-site-26.com,7,21-03-2024,12-12-2024,antiphishing.org,Financial fraud
+27,Email,example-27@scam.com,9,26-01-2023,02-06-2023,cybercrime.gov,Suspicious content
+28,Link,http://fake-site-28.com,3,21-05-2023,07-04-2024,fraud.org,Scam
+29,Link,http://fake-site-29.com,5,08-04-2023,10-08-2023,fbi.gov,Malware link
+30,Email,example-30@scam.com,2,01-03-2023,30-11-2023,fraud.org,Spam
+31,Email,example-31@scam.com,4,25-09-2023,09-01-2024,cybercrime.gov,Malware link
+32,Link,http://fake-site-32.com,10,20-07-2024,22-11-2024,cybercrime.gov,Fake job offer
+33,Link,http://fake-site-33.com,5,16-12-2023,23-12-2024,antiphishing.org,Fake job offer
+34,Link,http://fake-site-34.com,8,01-08-2024,19-09-2024,cybercrime.gov,Malware link
+35,Link,http://fake-site-35.com,3,11-09-2023,23-07-2024,cybercrime.gov,Fake job offer
+36,Email,example-36@scam.com,6,18-08-2024,04-10-2024,fbi.gov,Impersonation
+37,Message,Suspicious message 37,7,20-03-2024,28-09-2024,fbi.gov,Spam
+38,Email,example-38@scam.com,5,23-09-2024,15-10-2024,scamwatch.gov.au,Impersonation
+39,Link,http://fake-site-39.com,6,25-04-2024,29-04-2024,fbi.gov,Fake job offer
+40,Email,example-40@scam.com,4,23-02-2023,29-02-2024,fbi.gov,Phishing attempt
+41,Link,http://fake-site-41.com,6,27-10-2023,31-10-2023,scamwatch.gov.au,Malware link
+42,Link,http://fake-site-42.com,3,03-07-2023,13-09-2024,fbi.gov,Impersonation
+43,Email,example-43@scam.com,3,02-11-2022,18-04-2023,fbi.gov,Suspicious content
+44,Message,Suspicious message 44,4,31-07-2023,19-03-2024,fraud.org,Phishing attempt
+45,Email,example-45@scam.com,4,06-01-2024,12-09-2024,cybercrime.gov,Financial fraud
+46,Email,example-46@scam.com,10,08-01-2024,26-07-2024,fraud.org,Malware link
+47,Link,http://fake-site-47.com,1,08-12-2024,25-01-2025,fbi.gov,Phishing attempt
+48,Link,http://fake-site-48.com,5,19-05-2022,11-11-2023,fraud.org,Fake job offer
+49,Link,http://fake-site-49.com,3,21-10-2024,28-10-2024,antiphishing.org,Fake job offer
+50,Message,Suspicious message 50,7,06-03-2024,27-12-2024,fraud.org,Financial fraud
+51,Link,http://fake-site-51.com,9,17-06-2022,19-07-2022,fraud.org,Scam
+52,Email,example-52@scam.com,6,30-06-2023,20-12-2023,fraud.org,Spam
+53,Email,example-53@scam.com,4,07-02-2023,28-09-2023,scamwatch.gov.au,Phishing attempt
+54,Email,example-54@scam.com,1,26-07-2024,02-10-2024,cybercrime.gov,Financial fraud
+55,Link,http://fake-site-55.com,4,15-12-2024,06-01-2025,fraud.org,Scam
+56,Email,example-56@scam.com,1,15-10-2024,28-11-2024,antiphishing.org,Fake job offer
+57,Email,example-57@scam.com,5,27-07-2023,27-09-2023,fraud.org,Fake job offer
+58,Email,example-58@scam.com,1,10-10-2024,20-12-2024,cybercrime.gov,Phishing attempt
+59,Email,example-59@scam.com,8,13-01-2023,04-09-2024,scamwatch.gov.au,Financial fraud
+60,Link,http://fake-site-60.com,4,11-09-2022,03-04-2024,scamwatch.gov.au,Impersonation
+61,Email,example-61@scam.com,3,06-03-2022,18-10-2023,cybercrime.gov,Impersonation
+62,Message,Suspicious message 62,1,01-06-2022,18-07-2024,antiphishing.org,Spam
+63,Message,Suspicious message 63,1,19-01-2023,20-11-2023,fraud.org,Impersonation
+64,Message,Suspicious message 64,9,08-12-2024,30-01-2025,antiphishing.org,Suspicious content
+65,Message,Suspicious message 65,2,04-08-2022,15-10-2023,scamwatch.gov.au,Fake job offer
+66,Email,example-66@scam.com,6,26-06-2024,19-01-2025,antiphishing.org,Impersonation
+67,Message,Suspicious message 67,10,09-03-2023,06-04-2024,cybercrime.gov,Phishing attempt
+68,Link,http://fake-site-68.com,3,03-04-2023,03-01-2025,cybercrime.gov,Impersonation
+69,Message,Suspicious message 69,5,16-07-2024,23-10-2024,antiphishing.org,Suspicious content
+70,Email,example-70@scam.com,6,08-09-2023,18-01-2024,fraud.org,Suspicious content
+71,Email,example-71@scam.com,3,16-10-2023,11-06-2024,fraud.org,Impersonation
+72,Link,http://fake-site-72.com,7,22-10-2022,10-11-2022,fbi.gov,Impersonation
+73,Message,Suspicious message 73,1,14-07-2022,04-04-2023,cybercrime.gov,Fake job offer
+74,Email,example-74@scam.com,4,07-06-2022,04-09-2024,fbi.gov,Scam
+75,Link,http://fake-site-75.com,3,20-05-2023,05-11-2023,fbi.gov,Impersonation
+76,Message,Suspicious message 76,8,23-01-2025,26-01-2025,scamwatch.gov.au,Impersonation
+77,Email,example-77@scam.com,4,25-01-2025,29-01-2025,scamwatch.gov.au,Suspicious content
+78,Email,example-78@scam.com,1,21-09-2022,01-09-2023,cybercrime.gov,Malware link
+79,Message,Suspicious message 79,8,12-03-2023,06-02-2024,scamwatch.gov.au,Financial fraud
+80,Link,http://fake-site-80.com,4,14-02-2024,25-05-2024,fbi.gov,Malware link
+81,Message,Suspicious message 81,5,26-06-2024,21-07-2024,fraud.org,Financial fraud
+82,Link,http://fake-site-82.com,4,05-08-2024,15-10-2024,cybercrime.gov,Scam
+83,Email,example-83@scam.com,1,16-01-2025,29-01-2025,antiphishing.org,Impersonation
+84,Link,http://fake-site-84.com,5,19-01-2023,31-10-2023,cybercrime.gov,Financial fraud
+85,Link,http://fake-site-85.com,1,26-01-2023,15-09-2023,fbi.gov,Suspicious content
+86,Message,Suspicious message 86,8,18-07-2022,03-03-2024,antiphishing.org,Spam
+87,Link,http://fake-site-87.com,3,30-11-2023,08-08-2024,fbi.gov,Malware link
+88,Link,http://fake-site-88.com,8,13-12-2023,25-09-2024,fraud.org,Spam
+89,Email,example-89@scam.com,5,28-01-2023,29-10-2024,fbi.gov,Spam
+90,Message,Suspicious message 90,10,19-07-2023,09-07-2024,fraud.org,Fake job offer
+91,Email,example-91@scam.com,2,17-06-2024,13-12-2024,antiphishing.org,Phishing attempt
+92,Email,example-92@scam.com,6,13-09-2024,31-10-2024,antiphishing.org,Impersonation
+93,Email,example-93@scam.com,2,15-10-2022,21-05-2024,fbi.gov,Scam
+94,Email,example-94@scam.com,6,17-01-2024,19-03-2024,antiphishing.org,Impersonation
+95,Message,Suspicious message 95,4,08-08-2022,22-02-2024,cybercrime.gov,Scam
+96,Link,http://fake-site-96.com,4,30-07-2024,20-10-2024,cybercrime.gov,Financial fraud
+97,Link,http://fake-site-97.com,3,14-10-2024,31-12-2024,antiphishing.org,Phishing attempt
+98,Link,http://fake-site-98.com,1,14-04-2023,30-11-2024,fraud.org,Fake job offer
+99,Message,Suspicious message 99,3,09-02-2024,02-10-2024,fbi.gov,Phishing attempt
+100,Link,http://fake-site-100.com,6,19-04-2022,25-02-2023,scamwatch.gov.au,Financial fraud
+101,Message,Suspicious message 101,4,16-05-2023,07-06-2024,antiphishing.org,Scam
+102,Link,http://fake-site-102.com,5,04-08-2024,31-08-2024,cybercrime.gov,Fake job offer
+103,Link,http://fake-site-103.com,8,10-12-2024,02-01-2025,antiphishing.org,Financial fraud
+104,Email,example-104@scam.com,1,05-11-2022,11-03-2024,antiphishing.org,Scam
+105,Link,http://fake-site-105.com,9,26-05-2024,08-12-2024,cybercrime.gov,Suspicious content
+106,Email,example-106@scam.com,10,11-11-2023,06-02-2024,cybercrime.gov,Scam
+107,Email,example-107@scam.com,4,09-02-2023,28-03-2024,scamwatch.gov.au,Malware link
+108,Email,example-108@scam.com,5,11-08-2023,16-02-2024,antiphishing.org,Phishing attempt
+109,Message,Suspicious message 109,6,15-05-2023,13-01-2025,cybercrime.gov,Scam
+110,Link,http://fake-site-110.com,10,06-03-2023,04-10-2023,fbi.gov,Impersonation
+111,Email,example-111@scam.com,6,07-02-2022,19-07-2023,antiphishing.org,Malware link
+112,Message,Suspicious message 112,2,06-10-2024,09-10-2024,fbi.gov,Malware link
+113,Link,http://fake-site-113.com,7,22-09-2022,20-05-2023,cybercrime.gov,Spam
+114,Message,Suspicious message 114,2,04-06-2023,03-02-2024,fbi.gov,Malware link
+115,Email,example-115@scam.com,10,29-11-2023,25-01-2025,fraud.org,Phishing attempt
+116,Message,Suspicious message 116,6,13-02-2023,11-10-2024,cybercrime.gov,Financial fraud
+117,Link,http://fake-site-117.com,8,12-05-2023,04-01-2024,scamwatch.gov.au,Suspicious content
+118,Link,http://fake-site-118.com,10,11-02-2022,21-06-2023,fraud.org,Malware link
+119,Email,example-119@scam.com,5,09-05-2024,08-10-2024,fraud.org,Fake job offer
+120,Message,Suspicious message 120,1,17-02-2023,21-05-2024,fbi.gov,Scam
+121,Message,Suspicious message 121,6,21-09-2023,14-11-2024,fbi.gov,Scam
+122,Email,example-122@scam.com,6,01-07-2024,07-01-2025,cybercrime.gov,Suspicious content
+123,Link,http://fake-site-123.com,5,07-02-2022,02-09-2024,fraud.org,Scam
+124,Email,example-124@scam.com,7,05-05-2023,10-09-2023,cybercrime.gov,Phishing attempt
+125,Message,Suspicious message 125,2,19-05-2023,01-01-2024,antiphishing.org,Scam
+126,Email,example-126@scam.com,7,17-10-2022,05-03-2024,fraud.org,Phishing attempt
+127,Link,http://fake-site-127.com,7,18-01-2022,16-05-2022,scamwatch.gov.au,Spam
+128,Link,http://fake-site-128.com,7,15-04-2023,17-04-2024,fraud.org,Fake job offer
+129,Message,Suspicious message 129,3,07-12-2024,27-01-2025,cybercrime.gov,Suspicious content
+130,Link,http://fake-site-130.com,5,23-05-2023,28-07-2024,fbi.gov,Scam
+131,Email,example-131@scam.com,3,14-07-2022,24-07-2024,fraud.org,Fake job offer
+132,Message,Suspicious message 132,9,25-08-2023,24-10-2024,cybercrime.gov,Scam
+133,Link,http://fake-site-133.com,5,06-07-2023,07-05-2024,cybercrime.gov,Impersonation
+134,Message,Suspicious message 134,10,23-05-2023,07-10-2024,fraud.org,Impersonation
+135,Link,http://fake-site-135.com,4,06-03-2024,24-12-2024,fraud.org,Malware link
+136,Message,Suspicious message 136,4,19-05-2023,30-05-2024,fraud.org,Phishing attempt
+137,Link,http://fake-site-137.com,8,05-03-2023,21-03-2023,antiphishing.org,Suspicious content
+138,Message,Suspicious message 138,1,04-11-2022,02-08-2024,fraud.org,Malware link
+139,Link,http://fake-site-139.com,4,31-08-2023,30-09-2024,fraud.org,Malware link
+140,Email,example-140@scam.com,9,26-12-2023,10-01-2025,antiphishing.org,Suspicious content
+141,Message,Suspicious message 141,1,05-08-2022,24-06-2024,scamwatch.gov.au,Suspicious content
+142,Link,http://fake-site-142.com,6,09-04-2022,02-08-2022,scamwatch.gov.au,Impersonation
+143,Link,http://fake-site-143.com,9,06-12-2023,20-11-2024,cybercrime.gov,Impersonation
+144,Link,http://fake-site-144.com,7,10-09-2022,29-04-2023,antiphishing.org,Scam
+145,Link,http://fake-site-145.com,10,09-08-2023,10-10-2023,scamwatch.gov.au,Impersonation
+146,Email,example-146@scam.com,4,21-10-2023,28-03-2024,fraud.org,Spam
+147,Email,example-147@scam.com,5,01-03-2024,21-09-2024,scamwatch.gov.au,Spam
+148,Email,example-148@scam.com,6,13-08-2023,07-12-2024,cybercrime.gov,Spam
+149,Link,http://fake-site-149.com,6,24-12-2022,19-06-2024,fbi.gov,Impersonation
+150,Message,Suspicious message 150,5,13-11-2024,29-11-2024,fraud.org,Fake job offer
+151,Email,example-151@scam.com,9,29-12-2023,30-01-2025,fraud.org,Fake job offer
+152,Email,example-152@scam.com,1,11-01-2022,14-06-2024,fraud.org,Scam
+153,Link,http://fake-site-153.com,9,05-02-2023,30-11-2024,fbi.gov,Scam
+154,Email,example-154@scam.com,4,04-01-2022,31-01-2025,fraud.org,Scam
+155,Message,Suspicious message 155,9,29-07-2022,01-07-2023,fraud.org,Financial fraud
+156,Email,example-156@scam.com,3,25-10-2024,28-12-2024,scamwatch.gov.au,Impersonation
+157,Link,http://fake-site-157.com,9,27-12-2024,27-01-2025,fbi.gov,Suspicious content
+158,Message,Suspicious message 158,10,10-08-2022,30-04-2023,fbi.gov,Suspicious content
+159,Email,example-159@scam.com,8,17-01-2022,27-07-2022,fraud.org,Fake job offer
+160,Link,http://fake-site-160.com,3,27-07-2023,28-09-2024,cybercrime.gov,Scam
+161,Email,example-161@scam.com,7,14-02-2022,30-07-2022,fraud.org,Fake job offer
+162,Link,http://fake-site-162.com,9,23-05-2023,13-09-2024,antiphishing.org,Financial fraud
+163,Email,example-163@scam.com,5,15-02-2023,29-10-2023,cybercrime.gov,Phishing attempt
+164,Link,http://fake-site-164.com,5,19-05-2024,26-09-2024,fraud.org,Suspicious content
+165,Email,example-165@scam.com,4,14-07-2024,23-08-2024,scamwatch.gov.au,Malware link
+166,Email,example-166@scam.com,3,13-04-2023,11-08-2023,fbi.gov,Malware link
+167,Link,http://fake-site-167.com,5,18-11-2022,24-09-2023,scamwatch.gov.au,Financial fraud
+168,Link,http://fake-site-168.com,3,08-03-2023,25-12-2023,antiphishing.org,Malware link
+169,Message,Suspicious message 169,7,31-07-2023,27-10-2023,antiphishing.org,Scam
+170,Email,example-170@scam.com,8,01-01-2024,23-06-2024,cybercrime.gov,Financial fraud
+171,Message,Suspicious message 171,3,06-10-2024,28-12-2024,fbi.gov,Fake job offer
+172,Email,example-172@scam.com,9,02-04-2022,10-01-2024,fraud.org,Financial fraud
+173,Message,Suspicious message 173,4,16-05-2023,14-01-2025,antiphishing.org,Phishing attempt
+174,Message,Suspicious message 174,7,24-07-2022,29-11-2022,scamwatch.gov.au,Malware link
+175,Email,example-175@scam.com,5,13-04-2022,07-05-2022,scamwatch.gov.au,Malware link
+176,Email,example-176@scam.com,5,18-11-2023,10-02-2024,fbi.gov,Impersonation
+177,Email,example-177@scam.com,5,26-10-2022,21-01-2023,antiphishing.org,Phishing attempt
+178,Link,http://fake-site-178.com,2,13-03-2022,25-07-2024,fbi.gov,Spam
+179,Message,Suspicious message 179,2,10-10-2022,09-04-2024,fraud.org,Phishing attempt
+180,Message,Suspicious message 180,3,01-11-2023,15-03-2024,scamwatch.gov.au,Spam
+181,Email,example-181@scam.com,10,23-01-2024,15-08-2024,scamwatch.gov.au,Financial fraud
+182,Message,Suspicious message 182,1,10-03-2023,04-05-2024,fraud.org,Suspicious content
+183,Email,example-183@scam.com,4,30-07-2024,30-07-2024,cybercrime.gov,Suspicious content
+184,Email,example-184@scam.com,8,21-03-2022,24-02-2023,scamwatch.gov.au,Phishing attempt
+185,Message,Suspicious message 185,10,27-08-2022,07-08-2024,fbi.gov,Spam
+186,Link,http://fake-site-186.com,9,22-08-2022,05-04-2023,cybercrime.gov,Malware link
+187,Email,example-187@scam.com,8,18-08-2022,11-08-2024,fraud.org,Fake job offer
+188,Message,Suspicious message 188,2,01-11-2022,18-01-2023,antiphishing.org,Fake job offer
+189,Link,http://fake-site-189.com,2,15-10-2024,05-11-2024,antiphishing.org,Malware link
+190,Email,example-190@scam.com,2,29-06-2024,17-10-2024,antiphishing.org,Phishing attempt
+191,Email,example-191@scam.com,6,26-05-2022,12-03-2023,cybercrime.gov,Fake job offer
+192,Email,example-192@scam.com,1,25-07-2023,13-11-2024,scamwatch.gov.au,Phishing attempt
+193,Message,Suspicious message 193,1,19-10-2024,21-01-2025,fraud.org,Financial fraud
+194,Message,Suspicious message 194,4,14-04-2023,07-08-2023,fbi.gov,Scam
+195,Message,Suspicious message 195,3,08-04-2024,28-10-2024,fbi.gov,Suspicious content
+196,Email,example-196@scam.com,1,11-08-2022,18-12-2022,fraud.org,Impersonation
+197,Link,http://fake-site-197.com,6,21-08-2024,29-08-2024,fraud.org,Financial fraud
+198,Email,example-198@scam.com,4,21-01-2023,11-06-2023,cybercrime.gov,Scam
+199,Email,example-199@scam.com,8,23-06-2022,09-03-2024,fraud.org,Spam
+200,Message,Suspicious message 200,10,19-01-2025,21-01-2025,fraud.org,Suspicious content

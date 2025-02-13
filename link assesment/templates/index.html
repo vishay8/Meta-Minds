@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Legitimacy Checker</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        select, input, button { margin: 10px; padding: 8px; }
+        #result { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Check Suspicious Content</h1>
+    <label for="type">Select Input Type:</label>
+    <select id="type">
+        <option value="Link">Link</option>
+        <option value="Email">Email</option>
+        <option value="Message">Message</option>
+    </select>
+    <br>
+    <input type="text" id="content" placeholder="Enter link, email, or message" size="50">
+    <br>
+    <button onclick="checkContent()">Check</button>
+    <button onclick="reportContent()">Report</button>
+    <div id="result"></div>
+
+    <script>
+        function checkContent() {
+            let type = document.getElementById("type").value;
+            let content = document.getElementById("content").value;
+            
+            fetch("/check", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ type, content })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.exists) {
+                    document.getElementById("result").innerHTML = 
+                        `🚨 Reported ${data.report_count} times.<br>
+                        First Report: ${data.first_report} <br>
+                        Last Report: ${data.last_report} <br>
+                        Verify with: ${data.organizations}`;
+                } else {
+                    document.getElementById("result").innerHTML = "✅ No reports found.";
+                }
+            });
+        }
+
+        function reportContent() {
+            let type = document.getElementById("type").value;
+            let content = document.getElementById("content").value;
+
+            fetch("/report", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ type, content })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                document.getElementById("result").innerHTML = "🚀 Report submitted!";
+            });
+        }
+    </script>
+</body>
+</html>
